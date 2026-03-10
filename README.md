@@ -12,7 +12,6 @@ Welcome to my cybersecurity portfolio. This repository serves as a centralized h
 * **Documentation:** [[View Full PDF Report](./SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)]
 
 ### 🚀 [DDoS Network Breach Analysis (NIST CSF)](#) 
-*Note: Update this link to your specific DDoS folder*
 * **Objective:** Analyze a real-world DDoS network breach and apply the NIST Cybersecurity Framework (CSF).
 * **Core Skills:** Incident Response, NIST Framework, Remediation Strategy.
 * **Outcome:** * [[View Full Report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Incident%20report%20analysis.pdf)]
