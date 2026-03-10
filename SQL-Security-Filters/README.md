@@ -10,4 +10,4 @@ In this project, I acted as a security professional investigating potential vuln
 * **Departmental Audits:** Filtered for Marketing, Finance, and Sales staff while excluding IT[cite: 71, 79, 91].
 
 ## Files
-* [[View Full PDF Report](./SQL-Security-Filters/SQL-Based Vulnerability Assessment of Organizational Data.pdf)](https://www.google.com/search?q=./SQL-Based%2520Vulnerability%2520Assessment%2520of%2520Organizational%2520Data.pdf)
+* [[View Full PDF Report](./SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)]
