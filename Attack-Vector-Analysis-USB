@@ -1,5 +1,5 @@
-# 🛡️ Security Analysis: Malicious Peripheral Entry Vector
-### *Parking Lot USB Social Engineering Exercise*
+# 🛡️ Security Analysis: Malicious USB Entry Vector
+### *Parking Lot Social Engineering Exercise*
 
 ---
 
@@ -48,12 +48,6 @@ The device contained a high volume of unencrypted data that poses a risk to both
 * **Personal Data Leakage:** Several documents contain sensitive information, including Jorge's private data and the PII (Personally Identifiable Information) of third parties found within the work files.
 * **Corporate Intel:** These files disclose confidential operational data belonging to the hospital, which could be used to facilitate corporate espionage or operational disruption.
 
-### 2. Attacker Mindset & Vector Analysis
-From the perspective of a threat actor, the discovered documents provide high-value intelligence for a multi-stage attack:
-* **Professional Reconnaissance:** The timesheets represent a significant security risk, providing potential attackers with actionable intelligence regarding Jorge's professional network and daily routines.
-* **Spear-Phishing Foundation:** By leveraging both personal and work-related data, malicious actors could execute sophisticated social engineering or phishing attacks.
-* **Impersonation:** The data allows for spoofing communications from coworkers or relatives to compromise Jorge's credentials or gain unauthorized access to hospital systems.
-
 ---
 
 ## 🛡️ Risk Mitigation & Recommended Controls
@@ -64,12 +58,3 @@ To reduce the risk of a successful incident via removable media, the following m
 | **Managerial** | Implement employee awareness programs regarding suspicious peripherals. | Reduces human susceptibility to "lost USB" baits. |
 | **Operational** | Establish routine antivirus and malware scans for all external devices. | Detects known signatures before execution. |
 | **Technical** | Disable **AutoPlay/AutoRun** via Group Policy on all company PCs. | Prevents the automatic execution of malicious code. |
-
-
-
----
-
-## 💻 Tools & Environment
-* **Environment:** Isolated Virtual Machine (Sandbox)
-* **Operating System:** ChromeOS / Virtualized Workstation
-* **Documentation:** Technical Risk Analysis Report
