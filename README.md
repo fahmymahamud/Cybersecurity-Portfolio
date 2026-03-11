@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio. This repository serves as a centralized h
 * **Objective:** Investigate suspicious login patterns and audit employee machine access using relational database queries.
 * **Core Skills:** SQL (AND, OR, NOT, LIKE), Data Filtering, Incident Investigation.
 * **Key Findings:** Isolated failed login attempts after 18:00 and identified unauthorized international access attempts.
-* **Documentation:** [[View Full PDF Report](./SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)]
+* **Documentation:** [[View for full PDF report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/SQL-Security-Filters/SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)]
 
 ### 🚀 [DDoS Network Breach Analysis (NIST CSF)](#) 
 * **Objective:** Analyze a real-world DDoS network breach and apply the NIST Cybersecurity Framework (CSF).
