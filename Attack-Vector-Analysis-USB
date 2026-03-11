@@ -12,20 +12,19 @@
 [cite_start]Upon mounting the device in a sandbox workstation, the contents were identified as belonging to **Jorge Bailey**, the Human Resource Manager at **Rhetorical Hospital**[cite: 1]. [cite_start]The drive contained a high-risk mixture of personal and professional data, creating a significant surface area for social engineering[cite: 1].
 
 ### 📂 Directory Structure & File Inventory
-* [cite_start]**Personal Folders:** `Family photos`, `Our dog pics` [cite: 1, 2]
-* [cite_start]**Personal Documents:** `Vacation ideas.gdoc`, `Wedding list.gslides`, `JB_Resume.gdoc` [cite: 1, 2]
-* [cite_start]**Corporate/HR Documents:** `New hire letter.gdoc`, `Shift schedules.gsheet`, `Employee budget.gsheet` [cite: 1, 2]
+* [cite_start]**Personal Folders:** `Family photos`, `Our dog pics` [cite: 1]
+* [cite_start]**Personal Documents:** `Vacation ideas.gdoc`, `Wedding list.gslides`, `JB_Resume.gdoc` [cite: 1]
+* [cite_start]**Corporate/HR Documents:** `New hire letter.gdoc`, `Shift schedules.gsheet`, `Employee budget.gsheet` [cite: 1]
 
 ---
 
 ## ⚠️ Risk Assessment & Impact Analysis
-The following table summarizes the vulnerabilities identified during the analysis of the device's metadata and file contents:
+[cite_start]The following table summarizes the vulnerabilities identified during the analysis of the device's metadata and file contents[cite: 2]:
 
 | Category | Technical Impact |
 | :--- | :--- |
-| **Data Exposure** | Several documents contain sensitive information, including Jorge's private data and the PII of third parties found within the work files. [cite_start]Additionally, these files disclose confidential operational data belonging to the hospital. [cite: 1] |
-| **Attacker Mindset** | The timesheets represent a significant security risk, providing actionable intelligence regarding Jorge's professional network. [cite_start]Malicious actors could execute sophisticated social engineering or phishing attacks—such as spoofing communications from coworkers—to compromise credentials. [cite: 1] |
-
+| **Data Exposure** | Several documents contain sensitive information, including Jorge's private data and the PII of third parties found within the work files. [cite_start]Additionally, these files disclose confidential operational data belonging to the hospital[cite: 2]. |
+| **Attacker Mindset** | The timesheets represent a significant security risk, providing actionable intelligence regarding Jorge's professional network. [cite_start]Malicious actors could execute sophisticated social engineering or phishing attacks—such as spoofing communications from coworkers—to compromise credentials[cite: 2]. |
 
 
 ---
@@ -44,27 +43,26 @@ To perform this assessment without risking the host machine, a hardened sandbox 
 The following findings were documented during the deep-dive of the mounted volume:
 
 ### 1. Data Sensitivity & PII Exposure
-The device contained a high volume of unencrypted data that poses a risk to both individual and organizational privacy:
-* [cite_start]**Personal Data Leakage:** Several documents contain sensitive information, including Jorge's private data and the PII (Personally Identifiable Information) of third parties found within the work files[cite: 1].
-* [cite_start]**Corporate Intel:** These files disclose confidential operational data belonging to the hospital, which could be used to facilitate corporate espionage or operational disruption[cite: 1].
+[cite_start]The device contained a high volume of unencrypted data that poses a risk to both individual and organizational privacy[cite: 2]:
+* [cite_start]**Personal Data Leakage:** Several documents contain sensitive information, including Jorge's private data and the PII (Personally Identifiable Information) of third parties found within the work files[cite: 2].
+* [cite_start]**Corporate Intel:** These files disclose confidential operational data belonging to the hospital, which could be used to facilitate corporate espionage or operational disruption[cite: 2].
 
 ### 2. Attacker Mindset & Vector Analysis
-From the perspective of a threat actor, the discovered documents provide high-value intelligence for a multi-stage attack:
-* [cite_start]**Professional Reconnaissance:** The timesheets represent a significant security risk, providing potential attackers with actionable intelligence regarding Jorge's professional network and daily routines[cite: 1].
-* [cite_start]**Spear-Phishing Foundation:** By leveraging both personal and work-related data, malicious actors could execute sophisticated social engineering or phishing attacks[cite: 1].
-* [cite_start]**Impersonation:** The data allows for spoofing communications from coworkers or relatives to compromise Jorge's credentials or gain unauthorized access to hospital systems[cite: 1].
+[cite_start]From the perspective of a threat actor, the discovered documents provide high-value intelligence for a multi-stage attack[cite: 2]:
+* [cite_start]**Professional Reconnaissance:** The timesheets represent a significant security risk, providing potential attackers with actionable intelligence regarding Jorge's professional network and daily routines[cite: 2].
+* [cite_start]**Spear-Phishing Foundation:** By leveraging both personal and work-related data, malicious actors could execute sophisticated social engineering or phishing attacks[cite: 2].
+* [cite_start]**Impersonation:** The data allows for spoofing communications from coworkers or relatives to compromise Jorge's credentials or gain unauthorized access to hospital systems[cite: 2].
 
 ---
 
 ## 🛡️ Risk Mitigation & Recommended Controls
-To reduce the risk of a successful incident via removable media, the following multi-layered controls are recommended:
+[cite_start]To reduce the risk of a successful incident via removable media, the following multi-layered controls are recommended[cite: 2]:
 
 | Control Type | Implementation Strategy | Impact |
 | :--- | :--- | :--- |
-| **Managerial** | [cite_start]Implement employee awareness programs regarding suspicious peripherals. [cite: 1] | Reduces human susceptibility to "lost USB" baits. |
-| **Operational** | [cite_start]Establish routine antivirus and malware scans for all external devices. [cite: 1] | Detects known signatures before execution. |
-| **Technical** | [cite_start]Disable **AutoPlay/AutoRun** via Group Policy on all company PCs. [cite: 1] | Prevents the automatic execution of malicious code. |
-
+| **Managerial** | [cite_start]Implement employee awareness programs regarding suspicious peripherals[cite: 2]. | Reduces human susceptibility to "lost USB" baits. |
+| **Operational** | [cite_start]Establish routine antivirus and malware scans for all external devices[cite: 2]. | Detects known signatures before execution. |
+| **Technical** | [cite_start]Disable **AutoPlay/AutoRun** via Group Policy on all company PCs[cite: 2]. | Prevents the automatic execution of malicious code. |
 
 
 ---
