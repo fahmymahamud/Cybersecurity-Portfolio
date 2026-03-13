@@ -31,4 +31,5 @@ Think of it as the **black box recorder** for cybersecurity incidents—it captu
 
 ---
 
-## 🖊️ [Example Entry (Template Filled)](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Incident_Handler_Journal/EXAMPLE_ENTRY_FILLED)
+## 🖊️ Example Entry (Template Filled) [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/tree/main/Incident_Handler_Journal/EXAMPLE_ENTRY_FILLED)
+
