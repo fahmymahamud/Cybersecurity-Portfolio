@@ -28,9 +28,10 @@ APIs facilitate the exchange of data between customers, partners, and employees.
 
 ---
 
-## 🔄 Stage III: Decompose Application
-📊 *Sample Data Flow Diagram*  
-*(Placeholder for diagram illustration of data movement between users, APIs, databases, and authentication systems.)*
+## 🔄 Stage III: Decompose Application## 📊 Data Flow Diagram
+
+![Data Flow Diagram](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/PASTA-Worksheet/data%20flow%20diagram.png)
+
 
 ---
 
