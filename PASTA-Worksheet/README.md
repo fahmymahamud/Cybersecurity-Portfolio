@@ -51,8 +51,9 @@ Two vulnerabilities that could be exploited:
 ---
 
 ## 🌳 Stage VI: Attack Modeling
-📌 *Sample Attack Tree Diagram*  
-*(Placeholder for diagram showing possible attack paths leading to data compromise.)*
+
+![Attack Tree Diagram](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/PASTA-Worksheet/sample%20attack%20tree.png)
+
 
 ---
 
