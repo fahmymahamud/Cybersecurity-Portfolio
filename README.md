@@ -1,6 +1,5 @@
 # 🛡️ Cybersecurity Portfolio
-Welcome to my cybersecurity portfolio. This repository serves as a centralized hub for my security investigations, risk assessments, and technical incident reports developed during my professional training and independent research.
-
+Welcome to my cybersecurity portfolio. This repository showcases my learning journey and practical documentation in the field of cybersecurity.  Here, I explore and summarize key security concepts, tools and incident handling practices. My goal is to build a structured knowledge base that demonstrates both my understanding of cybersecurity fundamentals and my ability to apply them in practical contexts.
 ---
 
 ## 👨‍💻 Featured Projects
