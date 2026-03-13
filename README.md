@@ -25,6 +25,8 @@ Welcome to my cybersecurity portfolio. This repository serves as a centralized h
 | **Analysis** | Google Colab, Python (Pandas), Network Traffic Analysis |
 | **Cloud** | Azure Fundamentals |
 
+## 🖊️ IDS, IPS, EDR Tools Overview [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki/IDS,-IPS,-and-EDR-Tools-Overview)
+
 ---
 
 ## 📜 Certifications
