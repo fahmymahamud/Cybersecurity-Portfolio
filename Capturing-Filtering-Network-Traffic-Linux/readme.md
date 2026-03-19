@@ -181,5 +181,51 @@ ls -l capture.pcap
 
 Note: The "Done" in the output indicates that the packet was captured.
 
+## Task 4: Filter the captured packet data
+In this task, use `tcpdump` to filter data from the packet capture file you saved previously.
 
+1. Use the `tcpdump` command to filter the packet header data from the capture.pcap capture file:
+
+```bash
+sudo tcpdump -nn -r capture.pcap -v
+```
+
+This command will run `tcpdump` with the following options:
+
+-nn: Disable port and protocol name lookup.
+
+-r: Read capture data from the named file.
+
+-v: Display detailed packet data.
+
+You must specify the -nn switch again here, as you want to make sure tcpdump does not perform name lookups of either IP addresses or ports, since this can alert threat actors.
+
+This returns output data similar to the following:
+
+```bash
+12345
+reading from file capture.pcap, link-type EN10MB (Ethernet)
+20:53:27.669101 IP (tos 0x0, ttl 64, id 50874, offset 0, flags [DF], proto TCP (6), length 60)
+    172.17.0.2:46498 > 146.75.38.132:80: Flags [S], cksum 0x5445 (incorrect), seq 4197622953, win 65320, options [mss 1420,sackOK,TS val 610940466 ecr 0, nop,wscale 7], length 0
+20:53:27.669422 IP (tos 0x0, ttl 62, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    146.75.38.132:80: > 172.17.0.2:46498: Flags [S.], cksum 0xc272 (correct)
+```
+
+As in the previous example, the IP packet information along with information about the data that the packet contains.
+
+2. Use the tcpdump command to filter the extended packet data from the capture.pcap capture file:
+
+```bash
+sudo tcpdump -nn -r capture.pcap -X
+```
+
+This command will run tcpdump with the following options:
+
+-nn: Disable port and protocol name lookup.
+
+-r: Read capture data from the named file.
+
+-X: Display the hexadecimal and ASCII output format packet data. Security analysts can analyze hexadecimal and ASCII output to detect patterns or anomalies during malware analysis or forensic analysis.
+
+Note: Hexadecimal, also known as hex or base 16, uses 16 symbols to represent values, including the digits 0-9 and letters A, B, C, D, E, and F. American Standard Code for Information Interchange (ASCII) is a character encoding standard that uses a set of characters to represent text in digital form.
 
