@@ -229,3 +229,6 @@ This command will run tcpdump with the following options:
 
 Note: Hexadecimal, also known as hex or base 16, uses 16 symbols to represent values, including the digits 0-9 and letters A, B, C, D, E, and F. American Standard Code for Information Interchange (ASCII) is a character encoding standard that uses a set of characters to represent text in digital form.
 
+## Conclusion
+Through this activity, I gained hands‑on experience with tcpdump in a Linux environment. I learned how to identify network interfaces, capture live traffic, apply filters, and save packet data for later analysis. By examining both header details and extended packet information, I built practical skills in interpreting network traffic and understanding how data flows between systems. These steps form a strong foundation for deeper network security analysis and prepare me for more advanced investigations.
+
