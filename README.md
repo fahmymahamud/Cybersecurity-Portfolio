@@ -24,7 +24,7 @@ Welcome to my cybersecurity portfolio. This repository showcases my learning jou
 | **Analysis** | Google Colab, Python (Pandas), Network Traffic Analysis |
 | **Cloud** | Azure Fundamentals |
 
-## 🖊️ Tools Overview [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki/Cybersecurity-Tools)
+## 🖊️ Tools Overview [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki)
 
 ---
 
