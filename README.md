@@ -1,8 +1,14 @@
 # 🛡️ Cybersecurity Portfolio
-Welcome to my cybersecurity portfolio. This repository showcases my learning journey and practical documentation in the field of cybersecurity.  Here, I explore and summarize key security concepts, tools and incident handling practices. My goal is to build a structured knowledge base that demonstrates both my understanding of cybersecurity fundamentals and my ability to apply them in practical contexts.
+Welcome to my cybersecurity portfolio! This repository showcases my learning journey and practical documentation in the field of cybersecurity.
+Here, I explore and summarize key security concepts, tools and incident handling practices. My goal is to build a structured knowledge base that demonstrates both my understanding of cybersecurity fundamentals and my ability to apply them in practical contexts.
 ---
 
 ## 👨‍💻 Featured Projects
+
+### 📜 [Update File Through Python Algorithm](https://github.com/fahmymahamud/Cybersecurity-Portfolio/tree/main/1Update-File-Through-Python-Algorithm)
+* **Objective:** Demonstrate how Python can be used to automate file updates through algorithmic logic, ensuring reproducibility and efficiency.  
+* **Core Skills:** Python scripting, file handling, algorithm design, automation workflows, documentation in Markdown.  
+* **Key Findings:** Successfully implemented a modular Python algorithm that updates files with minimal manual intervention, improving operational efficiency and showcasing audit-ready documentation practices.  
 
 ### 🔎 [SQL-Based Vulnerability Assessment](./SQL-Security-Filters/)
 * **Objective:** Investigate suspicious login patterns and audit employee machine access using relational database queries.
