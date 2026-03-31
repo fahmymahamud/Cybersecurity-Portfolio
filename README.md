@@ -22,15 +22,13 @@ Here, I explore and summarize key security concepts, tools and incident handling
 * **Outcome:** * [[View Full Report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Incident%20report%20analysis.pdf)]
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit  [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki)
+
 | Category | Tools & Skills |
 | :--- | :--- |
 | **Databases** | SQL (PostgreSQL, SQLite), BigQuery |
 | **Security Frameworks** | NIST CSF, Risk Assessment |
 | **Analysis** | Google Colab, Python (Pandas), Network Traffic Analysis |
-| **Cloud** | Azure Fundamentals |
-
-## 🖊️ Tools Overview [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki)
 
 ---
 
