@@ -37,4 +37,8 @@ Here, I explore and summarize key security concepts, tools and incident handling
 ## 📜 Certifications
 * **Google Cybersecurity Professional Certificate** 
 
+![Google Cybersecurity](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Google%20Cybersecurity.jpg)
+
+[Certification Page](https://www.coursera.org/account/accomplishments/professional-cert/725OLE4PA7MI)
+
 ---
