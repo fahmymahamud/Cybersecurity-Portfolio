@@ -15,7 +15,7 @@ The goal of this repository is to:
 ## 📂 Contents
 Below are the key activities included in this repository. Click on each title to open the notebook:
 
-- [Activity 1: Update File Through Python Algorithm](./1Update-File-Through-Python-Algorithm.ipynb)  
+- [Activity 1: Activity Debug Python Code](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity%20Debug%20Python%20Code.ipynb)  
 - [Activity 2: Network Traffic Analysis](./2Network-Traffic-Analysis.ipynb)  
 - [Activity 3: Incident Response Documentation](./3Incident-Response-Documentation.ipynb)  
 - [Activity 4: IDS/IPS Rule Writing](./4IDS-IPS-Rule-Writing.ipynb)  
