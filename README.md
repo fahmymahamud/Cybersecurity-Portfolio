@@ -1,7 +1,19 @@
 # 🛡️ Cybersecurity Portfolio
-Welcome to my cybersecurity portfolio! This repository showcases my learning journey and practical documentation in the field of cybersecurity.
-Here, I explore and summarize key security concepts, tools and incident handling practices. My goal is to build a structured knowledge base that demonstrates both my understanding of cybersecurity fundamentals and my ability to apply them in practical contexts.
+Welcome to my **Cybersecurity Portfolio!**
+
+This repository showcases my learning journey and practical documentation of my journey in taking the Coursera's Google Professional Certificate of *Cybersecurity*.
+
+Here, I explore and summarize key security concepts, tools and incident handling practices. 
+
+My goal is to build a structured knowledge base that demonstrates both my understanding of cybersecurity fundamentals and my ability to apply them in practical contexts.
+
 ---
+
+## 🌟 About This Repository
+Here, you’ll find:
+- 📘 Summaries of [**key security concepts**](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki)  
+- 🛠️ Hands-on work with [**tools and techniques**](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki/IDS,-IPS,-and-EDR-Tools-Overview)
+- 🚨 Practical exercises in [**incident handling and response**](https://github.com/fahmymahamud/Cybersecurity-Portfolio/tree/main/Training-Activities)
 
 ## 👨‍💻 Featured Projects
 
@@ -33,10 +45,18 @@ Here, I explore and summarize key security concepts, tools and incident handling
 ---
 
 ## 📜 Certifications
-* **Google Cybersecurity Professional Certificate** 
+* [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/725OLE4PA7MI)
 
 ![Google Cybersecurity](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Google%20Cybersecurity.jpg)
 
 [Certification Page](https://www.coursera.org/account/accomplishments/professional-cert/725OLE4PA7MI)
 
 ---
+
+## 📜 License & Disclaimer
+These notebooks contain my personal solutions and documentation from The Coursera's Google Professional Certificate Training.  
+They are shared for **educational and portfolio purposes only**. Please credit the source if you reuse content.
+
+---
+
+✨ Thank you for visiting my portfolio — I hope you enjoy exploring my work as much as I enjoyed building it!
