@@ -13,12 +13,15 @@ The goal of this repository is to:
 ---
 
 ## 📂 Contents
-Below are the key activities included in this repository. Click on each title to open the notebook:
+Below are the activities included in this repository. Click on each title to open the notebook:
 
-- [Activity 1: Activity Debug Python Code](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity%20Debug%20Python%20Code.ipynb)  
-- [Activity 2: Network Traffic Analysis](./2Network-Traffic-Analysis.ipynb)  
-- [Activity 3: Incident Response Documentation](./3Incident-Response-Documentation.ipynb)  
-- [Activity 4: IDS/IPS Rule Writing](./4IDS-IPS-Rule-Writing.ipynb)  
+- [Activity 1: Work With Strings in Python](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Work_with_strings_in_Python.ipynb)
+- [Activity 2: Define and Call Function](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Define_and_call_a_function.ipynb)
+- [Activity 3: Create More Functions](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Create_more_functions.ipynb)
+- [Activity 4: Activity Debug Python Code](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity%20Debug%20Python%20Code.ipynb)
+- [Activity 5: Import & Parse Text File](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Import_and_parse_a_text_file.ipynb)
+- [Activity 6: Create Loops](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Create_loops.ipynb)  
+- [Activity 7: Develop_an_algorithm](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Training-Activities/Activity_Develop_an_algorithm.ipynb)  
 
 
 ---
