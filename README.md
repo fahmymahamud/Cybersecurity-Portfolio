@@ -28,7 +28,7 @@ Here, you’ll find:
 * **Objective:** Investigate suspicious login patterns and audit employee machine access using relational database queries.
 * **Core Skills:** SQL (AND, OR, NOT, LIKE), Data Filtering, Incident Investigation.
 * **Key Findings:** Isolated failed login attempts after 18:00 and identified unauthorized international access attempts.
-* **Documentation:** [View for full PDF report](http://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/SQL-Security-Filters/SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)
+* **Documentation:** [View for full PDF report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/SQL-Security-Filters/SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)
 
 ### 🚀 [Attack Vector Analysis](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Attack-Vector-Analysis(USB)/README.md) 
 * **Objective:** To analyze the data exposure and social engineering risks of a "lost" USB drive within a hardened sandbox environment to recommend organizational security controls.
