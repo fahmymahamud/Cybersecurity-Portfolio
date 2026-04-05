@@ -51,7 +51,7 @@ Here, you’ll find:
 
 ![Google Cybersecurity](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Google%20Cybersecurity.jpg)
 
-[Certification Page](https://www.coursera.org/account/accomplishments/professional-cert/725OLE4PA7MI)
+[Credly Badge Page](https://www.credly.com/earner/earned/badge/857a094c-b85b-41db-a991-1606dd2963ca)
 
 ---
 
