@@ -56,3 +56,10 @@ To reduce the risk of a successful incident via removable media, the following m
 | **Managerial** | Implement employee awareness programs regarding suspicious peripherals. | Reduces human susceptibility to "lost USB" baits. |
 | **Operational** | Establish routine antivirus and malware scans for all external devices. | Detects known signatures before execution. |
 | **Technical** | Disable **AutoPlay/AutoRun** via Group Policy on all company PCs. | Prevents the automatic execution of malicious code. |
+
+---
+
+## 🏁 Conclusion
+This exercise proves that a "lost" USB drive remains one of the simplest yet most effective ways to bypass a network's perimeter. The analysis of Jorge Bailey’s files shows that the risk isn't just malware—it's the Information Leakage of PII and corporate schedules that hands an attacker the perfect script for a phishing campaign.
+
+While technical safeguards like disabling AutoRun are vital, this project reinforces that security is a human problem. Building a culture where employees know how to handle suspicious peripherals is just as important as hardening the workstations they plug them into.
