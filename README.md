@@ -1,4 +1,6 @@
-# 🛡️ Cybersecurity Portfolio
+<img src="https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/google-cybersecurity-professional-certificate-v-2.png" width="30%">
+
+# Cybersecurity Portfolio  
 Welcome to my **Cybersecurity Portfolio!**
 
 This repository showcases my learning journey and practical documentation of my journey in taking the Coursera's Google Professional Certificate of *Cybersecurity*.
