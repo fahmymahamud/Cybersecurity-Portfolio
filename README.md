@@ -24,16 +24,16 @@ Here, you’ll find:
 * **Core Skills:** Python scripting, file handling, algorithm design, automation workflows, documentation in Markdown.  
 * **Key Findings:** Successfully implemented a modular Python algorithm that updates files with minimal manual intervention, improving operational efficiency and showcasing audit-ready documentation practices.  
 
-### 🔎 [SQL-Based Vulnerability Assessment](./SQL-Security-Filters/)
+### 🔎 [SQL-Based Vulnerability Assessment](https://github.com/fahmymahamud/Cybersecurity-Portfolio/tree/main/SQL-Security-Filters)
 * **Objective:** Investigate suspicious login patterns and audit employee machine access using relational database queries.
 * **Core Skills:** SQL (AND, OR, NOT, LIKE), Data Filtering, Incident Investigation.
 * **Key Findings:** Isolated failed login attempts after 18:00 and identified unauthorized international access attempts.
 * **Documentation:** [[View for full PDF report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/SQL-Security-Filters/SQL-Based%20Vulnerability%20Assessment%20of%20Organizational%20Data.pdf)]
 
-### 🚀 [DDoS Network Breach Analysis (NIST CSF)](#) 
-* **Objective:** Analyze a real-world DDoS network breach and apply the NIST Cybersecurity Framework (CSF).
-* **Core Skills:** Incident Response, NIST Framework, Remediation Strategy.
-* **Outcome:** * [[View Full Report](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Incident%20report%20analysis.pdf)]
+### 🚀 [Attack Vector Analysis](https://github.com/fahmymahamud/Cybersecurity-Portfolio/blob/main/Attack-Vector-Analysis(USB)/README.md) 
+* **Objective:** To analyze the data exposure and social engineering risks of a "lost" USB drive within a hardened sandbox environment to recommend organizational security controls.
+* **Core Skills:** Endpoint Security, Vulnerability Assessment, Threat Modeling, Incident Mitigation and Data Auditing
+
 ---
 
 ## 🛠️ Technical Toolkit  [[CLICK HERE]](https://github.com/fahmymahamud/Cybersecurity-Portfolio/wiki)
